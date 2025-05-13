@@ -16,6 +16,3 @@ function closeNav() {
     document.getElementById("main").style.marginLeft = "0";
 }
 
-document.getElementById("godFather").addEventListener("click", () => {
-    document.querySelector(".container-sidebar").classList.toggle("active");
-});
