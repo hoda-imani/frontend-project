@@ -1,0 +1,12 @@
+.dropdown-menu-cards {
+    min-width: 600px !important;
+    padding: 1rem !important;
+  }
+  .card {
+    cursor: pointer;
+    transition: transform 0.2s;
+  }
+  .card:hover {
+    transform: scale(1.02);
+  }
+  
